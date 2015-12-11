@@ -6,7 +6,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute to the lessons.
 
 Please have a look at [CONDUCT.md](CONDUCT.md).
 
-# The need for a handbook
+## The need for a handbook
 
 There are already tutorials on various parts of the LHCb software linked in the
 [LHCb TWiki](https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbSoftwareTutorials).
